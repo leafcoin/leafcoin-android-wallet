@@ -1,0 +1,24 @@
+Tato aplikace je peněženka s Leafcoiny pro systém Android. Můžete posílat Leafcoiny mezi telefony prostým naskenováním QR kódu, který je zobrazen aplikací, nebo pomocí NFC (Near Field Communication).
+
+VLASTNOSTI:
+
+• Zobrazení zůstatku peněženky v Leafcoinech a několika jiných měnách.
+• Odesílání a přijímání Leafcoinů pomocí NFC, QR-kódů, nebo Leafcoin adres.
+• Adresář pro často používané adresy.
+• Možnost zadávání transakcí v offline režimu, k jejich zpracování dojde po připojení.
+• Oznamování v liště při synchronizaci a při přijetí Leafcoinů.
+• Widget s celkovým zůstatkem.
+
+Více informací o Leafcoinech
+http://leafcoin.org
+
+Pokud chcete přispět do projektu Leafcoin Wallet, naleznete jej na adrese
+https://github.com/langerhans/leafcoin-wallet-new
+
+This is a fork of the popular Bitcoin Wallet by Andreas Schildbach and was converted to Leafcoin by me.
+Find the original at
+https://play.google.com/store/apps/details?id=de.schildbach.wallet
+
+License: GPLv3
+Použití pouze na vlastní riziko!
+http://www.gnu.org/licenses/gpl-3.0.en.html

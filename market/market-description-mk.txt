@@ -1,0 +1,26 @@
+Имај ги твоите Leafcoins секогаш со тебе, во твојот џеб! Плаќањето се одвива со брзо скенирање на QR код. Како трговец, можеш да примаш плаќања доверливо и без одложување. Leafcoin Паричник е првата мобилна Leafcoin апликација и веројатно најсигурната!
+
+ОДЛИКИ:
+
+• Без регистрација, веб сервис или информации во облакот! Овој паричник е децентрализиран, со peer to peer конекција.
+• Прикажување на Leafcoin сумата во LEAF и mLEAF.
+• Конверзија во и од национални валути.
+• Испраќање и примање на Leafcoin преку NFC, QR кодови или Leafcoin интернет адреса.
+• Адресар за често користени Leafcoin адреси.
+• Кога си офлајн, сѐ уште можеш да плаќаш преку Bluetooth.
+• Системско известување за примени Leafcoins.
+• Апликациски виџет за Leafcoin салдо.
+
+Можеш да дознаеш повеќе за Leafcoin на
+http://bitcoin.org
+
+Ако сакаш да придонесеш за Leafcoin Паричник, проектот е лоциран на
+https://github.com/langerhans/leafcoin-wallet-new
+
+This is a fork of the popular Bitcoin Wallet by Andreas Schildbach and was converted to Leafcoin by me.
+Find the original at
+https://play.google.com/store/apps/details?id=de.schildbach.wallet
+
+License: GPLv3
+Користи на сопствен ризик!
+http://www.gnu.org/licenses/gpl-3.0.en.html

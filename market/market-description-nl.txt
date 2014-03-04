@@ -1,0 +1,24 @@
+Dit is een standalone Leafcoin Wallet voor uw Android apparaat. U kan direct Leafcoins versturen tussen telefoons door simpelweg de QR-code te scannen die de app weergeeft of via NFC (Near Field Communication).
+
+FUNCTIES:
+
+• Weergeven van het wallet saldo in Leafcoin en verschillende andere valuta.
+• Verzenden en ontvangen van Leafcoin via NFC, QR-codes of Leafcoin URLs.
+• Adresboek voor veelgebruikte Leafcoin adressen.
+• Transacties ingeven tijdens het offline zijn, deze zullen worden uitgevoerd wanneer u online komt.
+• Systeem melding over Leafcoin connectiviteit en ontvangen leafcoins.
+• Widget voor Leafcoin saldo.
+
+Voor meer informatie over Leafcoin kunt u terecht op
+http://leafcoin.org
+
+Als u een bijdrage wil leveren aan Leafcoin Wallet, het project is te vinden op
+https://github.com/langerhans/leafcoin-wallet-new
+
+This is a fork of the popular Bitcoin Wallet by Andreas Schildbach and was converted to Leafcoin by me.
+Find the original at
+https://play.google.com/store/apps/details?id=de.schildbach.wallet
+
+Licentie: GPLv3
+Gebruik op eigen risico!
+http://www.gnu.org/licenses/gpl-3.0.en.html

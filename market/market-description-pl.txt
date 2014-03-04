@@ -1,0 +1,25 @@
+Miej swoje Leafcoiny zawsze w swojej kieszeni! Zapłacisz skanując kod QR. Jako sprzedawca odbierzesz płatności niezawodnie i natychmiastowo. Leafcoin Wallet jest pierwszą aplikacją Leafcoinową na telefony i niezaprzeczalnie najbezpieczniejszą.
+
+WŁAŚCIWOŚCI:
+
+• Brak konieczności rejestracji, serwisu online lub chmury! Ten portfel używa zdecentralizowanej sieci peer-to-peer.
+• Wyświetl ilość kwotę w LEAF i mLEAF.
+• Zamiana z i na waluty narodowe
+• Wysyłąnie i odbieranie Leafcoin za pomocą NFC, kodów QR czy adresów Leafcoin URL.
+• Książka adresowa dla regularnie używanych adresów Leafcoin.
+• Gdy jesteś offline, wciąż możesz zapłacić przy użyciu Bluetooth.
+• System powiadomień dla przychodzących transakcji.
+• Widget aplikacji dla stanu konta.
+
+Dowiedz się więcej o Leafcoin
+http://leafcoin.org
+
+Jeśli chcesz przyczynić się do rozwoju Leafcoin Wallet to projekt znajduje się pod adresem
+https://github.com/langerhans/leafcoin-wallet-new
+
+This is a fork of the popular Leafcoin Wallet by Andreas Schildbach and was converted to Leafcoin by me.
+Find the original at
+https://play.google.com/store/apps/details?id=de.schildbach.wallet
+Licencja: GPLv3
+Używasz na własne ryzyko!
+http://www.gnu.org/licenses/gpl-3.0.en.html

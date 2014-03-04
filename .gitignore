@@ -1,0 +1,11 @@
+local.properties
+.classpath
+.project
+.settings/
+.idea/
+bin/
+gen/
+target/
+wallet/gen-external-apklibs/
+*.iml
+wallet/release_pom.xml
