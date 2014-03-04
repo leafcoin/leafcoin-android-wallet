@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.ui;
+package in.leafco.wallet.ui;
 
 import javax.annotation.Nonnull;
 
@@ -29,9 +29,9 @@ import android.widget.Toast;
 
 import com.actionbarsherlock.app.SherlockFragmentActivity;
 
-import in.leafcoin.wallet.Constants;
-import in.leafcoin.wallet.WalletApplication;
-import in.leafcoin.wallet.R;
+import in.leafco.wallet.Constants;
+import in.leafco.wallet.WalletApplication;
+import in.leafco.wallet.R;
 
 /**
  * @author Andreas Schildbach

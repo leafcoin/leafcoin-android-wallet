@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package in.leafcoin.wallet.integration.sample;
+package in.leafco.wallet.integration.sample;
 
 import org.bitcoin.protocols.payments.Protos;
 
@@ -37,7 +37,7 @@ import com.google.leafcoin.core.NetworkParameters;
 import com.google.leafcoin.script.ScriptBuilder;
 import com.google.protobuf.ByteString;
 
-import in.leafcoin.wallet.integration.android.BitcoinIntegration;
+import in.leafco.wallet.integration.android.BitcoinIntegration;
 
 /**
  * @author Andreas Schildbach

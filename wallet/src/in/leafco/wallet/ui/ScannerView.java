@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.ui;
+package in.leafco.wallet.ui;
 
 import java.util.HashMap;
 import java.util.Iterator;
@@ -35,7 +35,7 @@ import android.view.View;
 
 import com.google.zxing.ResultPoint;
 
-import in.leafcoin.wallet.R;
+import in.leafco.wallet.R;
 
 /**
  * @author Andreas Schildbach

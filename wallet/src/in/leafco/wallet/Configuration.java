@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet;
+package in.leafco.wallet;
 
 import java.math.BigInteger;
 
@@ -28,7 +28,7 @@ import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
 import android.content.SharedPreferences.OnSharedPreferenceChangeListener;
 import android.text.format.DateUtils;
-import in.leafcoin.wallet.ExchangeRatesProvider.ExchangeRate;
+import in.leafco.wallet.ExchangeRatesProvider.ExchangeRate;
 
 /**
  * @author Andreas Schildbach

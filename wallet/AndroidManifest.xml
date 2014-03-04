@@ -69,7 +69,7 @@
 
 		<activity-alias
 			android:name="in.leafco.wallet.WalletActivity"
-			android:targetActivity="in.leafcowallet.ui.WalletActivity" >
+			android:targetActivity="in.leafco.wallet.ui.WalletActivity" >
 			<intent-filter>
 				<action android:name="android.intent.action.MAIN" />
 

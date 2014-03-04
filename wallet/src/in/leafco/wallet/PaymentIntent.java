@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet;
+package in.leafco.wallet;
 
 import java.math.BigInteger;
 import java.util.Arrays;
@@ -36,8 +36,8 @@ import com.google.leafcoin.script.Script;
 import com.google.leafcoin.script.ScriptBuilder;
 import com.google.leafcoin.uri.BitcoinURI;
 
-import in.leafcoin.wallet.util.Bluetooth;
-import in.leafcoin.wallet.util.GenericUtils;
+import in.leafco.wallet.util.Bluetooth;
+import in.leafco.wallet.util.GenericUtils;
 
 /**
  * @author Andreas Schildbach

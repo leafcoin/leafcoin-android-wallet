@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.offline;
+package in.leafco.wallet.offline;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
@@ -42,11 +42,11 @@ import android.os.Looper;
 import com.google.leafcoin.core.Address;
 import com.google.leafcoin.core.Transaction;
 import com.google.leafcoin.script.ScriptBuilder;
-import in.leafcoin.wallet.Constants;
-import in.leafcoin.wallet.PaymentIntent;
-import in.leafcoin.wallet.util.Bluetooth;
-import in.leafcoin.wallet.util.PaymentProtocol;
-import in.leafcoin.wallet.R;
+import in.leafco.wallet.Constants;
+import in.leafco.wallet.PaymentIntent;
+import in.leafco.wallet.util.Bluetooth;
+import in.leafco.wallet.util.PaymentProtocol;
+import in.leafco.wallet.R;
 
 /**
  * @author Andreas Schildbach

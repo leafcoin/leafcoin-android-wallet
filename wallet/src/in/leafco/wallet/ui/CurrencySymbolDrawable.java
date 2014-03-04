@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.ui;
+package in.leafco.wallet.ui;
 
 import javax.annotation.Nonnull;
 
@@ -23,7 +23,7 @@ import android.graphics.Canvas;
 import android.graphics.ColorFilter;
 import android.graphics.Paint;
 import android.graphics.drawable.Drawable;
-import in.leafcoin.wallet.Constants;
+import in.leafco.wallet.Constants;
 
 /**
  * @author Andreas Schildbach

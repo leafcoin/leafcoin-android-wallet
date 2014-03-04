@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.ui;
+package in.leafco.wallet.ui;
 
 import javax.annotation.Nonnull;
 
@@ -23,7 +23,7 @@ import com.google.leafcoin.core.Transaction;
 import com.google.leafcoin.core.VerificationException;
 import com.google.leafcoin.core.Wallet;
 
-import in.leafcoin.wallet.WalletApplication;
+import in.leafco.wallet.WalletApplication;
 
 /**
  * @author Andreas Schildbach

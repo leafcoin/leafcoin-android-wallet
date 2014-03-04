@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.ui;
+package in.leafco.wallet.ui;
 
 import java.math.BigInteger;
 
@@ -24,9 +24,9 @@ import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
 
 import android.view.View;
-import in.leafcoin.wallet.ExchangeRatesProvider.ExchangeRate;
-import in.leafcoin.wallet.ui.CurrencyAmountView.Listener;
-import in.leafcoin.wallet.util.WalletUtils;
+import in.leafco.wallet.ExchangeRatesProvider.ExchangeRate;
+import in.leafco.wallet.ui.CurrencyAmountView.Listener;
+import in.leafco.wallet.util.WalletUtils;
 
 /**
  * @author Andreas Schildbach

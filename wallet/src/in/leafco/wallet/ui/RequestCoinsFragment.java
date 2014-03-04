@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.ui;
+package in.leafco.wallet.ui;
 
 import java.math.BigInteger;
 import java.util.LinkedList;
@@ -68,19 +68,19 @@ import com.google.leafcoin.core.Wallet;
 import com.google.leafcoin.script.ScriptBuilder;
 import com.google.leafcoin.uri.BitcoinURI;
 
-import in.leafcoin.wallet.AddressBookProvider;
-import in.leafcoin.wallet.Configuration;
-import in.leafcoin.wallet.Constants;
-import in.leafcoin.wallet.ExchangeRatesProvider;
-import in.leafcoin.wallet.ExchangeRatesProvider.ExchangeRate;
-import in.leafcoin.wallet.WalletApplication;
-import in.leafcoin.wallet.offline.AcceptBluetoothService;
-import in.leafcoin.wallet.util.BitmapFragment;
-import in.leafcoin.wallet.util.Bluetooth;
-import in.leafcoin.wallet.util.Nfc;
-import in.leafcoin.wallet.util.PaymentProtocol;
-import in.leafcoin.wallet.util.Qr;
-import in.leafcoin.wallet.R;
+import in.leafco.wallet.AddressBookProvider;
+import in.leafco.wallet.Configuration;
+import in.leafco.wallet.Constants;
+import in.leafco.wallet.ExchangeRatesProvider;
+import in.leafco.wallet.ExchangeRatesProvider.ExchangeRate;
+import in.leafco.wallet.WalletApplication;
+import in.leafco.wallet.offline.AcceptBluetoothService;
+import in.leafco.wallet.util.BitmapFragment;
+import in.leafco.wallet.util.Bluetooth;
+import in.leafco.wallet.util.Nfc;
+import in.leafco.wallet.util.PaymentProtocol;
+import in.leafco.wallet.util.Qr;
+import in.leafco.wallet.R;
 
 /**
  * @author Andreas Schildbach

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package in.leafcoin.wallet.util;
+package in.leafco.wallet.util;
 
 import java.io.DataInputStream;
 import java.io.File;

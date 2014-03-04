@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package in.leafcoin.wallet.util;
+package in.leafco.wallet.util;
 
 import android.content.Context;
 import android.graphics.Canvas;

@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet;
+package in.leafco.wallet;
 
 import java.util.List;
 

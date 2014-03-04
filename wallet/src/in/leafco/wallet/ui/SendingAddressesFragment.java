@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.ui;
+package in.leafco.wallet.ui;
 
 import java.util.ArrayList;
 
@@ -49,14 +49,14 @@ import com.google.leafcoin.core.AddressFormatException;
 import com.google.leafcoin.core.Transaction;
 import com.google.leafcoin.uri.BitcoinURI;
 
-import in.leafcoin.wallet.AddressBookProvider;
-import in.leafcoin.wallet.Constants;
-import in.leafcoin.wallet.PaymentIntent;
-import in.leafcoin.wallet.ui.InputParser.StringInputParser;
-import in.leafcoin.wallet.util.BitmapFragment;
-import in.leafcoin.wallet.util.Qr;
-import in.leafcoin.wallet.util.WalletUtils;
-import in.leafcoin.wallet.R;
+import in.leafco.wallet.AddressBookProvider;
+import in.leafco.wallet.Constants;
+import in.leafco.wallet.PaymentIntent;
+import in.leafco.wallet.ui.InputParser.StringInputParser;
+import in.leafco.wallet.util.BitmapFragment;
+import in.leafco.wallet.util.Qr;
+import in.leafco.wallet.util.WalletUtils;
+import in.leafco.wallet.R;
 
 /**
  * @author Andreas Schildbach

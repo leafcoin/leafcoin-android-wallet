@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.ui;
+package in.leafco.wallet.ui;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -34,10 +34,10 @@ import android.os.Looper;
 
 import com.google.leafcoin.core.Transaction;
 
-import in.leafcoin.wallet.Constants;
-import in.leafcoin.wallet.PaymentIntent;
-import in.leafcoin.wallet.offline.DirectPaymentTask;
-import in.leafcoin.wallet.R;
+import in.leafco.wallet.Constants;
+import in.leafco.wallet.PaymentIntent;
+import in.leafco.wallet.offline.DirectPaymentTask;
+import in.leafco.wallet.R;
 
 /**
  * @author Andreas Schildbach

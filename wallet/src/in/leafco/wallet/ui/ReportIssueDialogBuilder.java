@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.ui;
+package in.leafco.wallet.ui;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -43,10 +43,10 @@ import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
-import in.leafcoin.wallet.Constants;
-import in.leafcoin.wallet.util.CrashReporter;
-import in.leafcoin.wallet.util.Io;
-import in.leafcoin.wallet.R;
+import in.leafco.wallet.Constants;
+import in.leafco.wallet.util.CrashReporter;
+import in.leafco.wallet.util.Io;
+import in.leafco.wallet.R;
 
 /**
  * @author Andreas Schildbach

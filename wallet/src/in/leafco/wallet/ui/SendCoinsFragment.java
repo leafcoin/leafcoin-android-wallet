@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.ui;
+package in.leafco.wallet.ui;
 
 import java.io.FileNotFoundException;
 import java.io.InputStream;
@@ -25,7 +25,7 @@ import javax.annotation.CheckForNull;
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
 
-import in.leafcoin.wallet.offline.DirectPaymentTask;
+import in.leafco.wallet.offline.DirectPaymentTask;
 import org.bitcoin.protocols.payments.Protos;
 import org.bitcoin.protocols.payments.Protos.Payment;
 import org.slf4j.Logger;
@@ -89,22 +89,22 @@ import com.google.leafcoin.core.Wallet.SendRequest;
 import com.google.leafcoin.script.ScriptBuilder;
 import com.google.protobuf.ByteString;
 
-import in.leafcoin.wallet.AddressBookProvider;
-import in.leafcoin.wallet.Configuration;
-import in.leafcoin.wallet.Constants;
-import in.leafcoin.wallet.ExchangeRatesProvider;
-import in.leafcoin.wallet.ExchangeRatesProvider.ExchangeRate;
-import in.leafcoin.wallet.PaymentIntent;
-import in.leafcoin.wallet.PaymentIntent.Standard;
-import in.leafcoin.wallet.WalletApplication;
-import in.leafcoin.wallet.integration.android.BitcoinIntegration;
-import in.leafcoin.wallet.ui.InputParser.BinaryInputParser;
-import in.leafcoin.wallet.ui.InputParser.StreamInputParser;
-import in.leafcoin.wallet.ui.InputParser.StringInputParser;
-import in.leafcoin.wallet.util.GenericUtils;
-import in.leafcoin.wallet.util.Nfc;
-import in.leafcoin.wallet.util.WalletUtils;
-import in.leafcoin.wallet.R;
+import in.leafco.wallet.AddressBookProvider;
+import in.leafco.wallet.Configuration;
+import in.leafco.wallet.Constants;
+import in.leafco.wallet.ExchangeRatesProvider;
+import in.leafco.wallet.ExchangeRatesProvider.ExchangeRate;
+import in.leafco.wallet.PaymentIntent;
+import in.leafco.wallet.PaymentIntent.Standard;
+import in.leafco.wallet.WalletApplication;
+import in.leafco.wallet.integration.android.BitcoinIntegration;
+import in.leafco.wallet.ui.InputParser.BinaryInputParser;
+import in.leafco.wallet.ui.InputParser.StreamInputParser;
+import in.leafco.wallet.ui.InputParser.StringInputParser;
+import in.leafco.wallet.util.GenericUtils;
+import in.leafco.wallet.util.Nfc;
+import in.leafco.wallet.util.WalletUtils;
+import in.leafco.wallet.R;
 
 /**
  * @author Andreas Schildbach

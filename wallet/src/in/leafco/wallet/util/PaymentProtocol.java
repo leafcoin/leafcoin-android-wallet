@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.util;
+package in.leafco.wallet.util;
 
 import java.math.BigInteger;
 import java.util.ArrayList;
@@ -37,8 +37,8 @@ import com.google.protobuf.ByteString;
 import com.google.protobuf.InvalidProtocolBufferException;
 import com.google.protobuf.UninitializedMessageException;
 
-import in.leafcoin.wallet.Constants;
-import in.leafcoin.wallet.PaymentIntent;
+import in.leafco.wallet.Constants;
+import in.leafco.wallet.PaymentIntent;
 
 /**
  * @author Andreas Schildbach

@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.ui;
+package in.leafco.wallet.ui;
 
 import java.math.BigInteger;
 
@@ -47,15 +47,15 @@ import com.actionbarsherlock.view.MenuItem;
 import com.google.leafcoin.core.Wallet;
 import com.google.leafcoin.core.Wallet.BalanceType;
 
-import in.leafcoin.wallet.Configuration;
-import in.leafcoin.wallet.Constants;
-import in.leafcoin.wallet.ExchangeRatesProvider;
-import in.leafcoin.wallet.ExchangeRatesProvider.ExchangeRate;
-import in.leafcoin.wallet.WalletApplication;
-import in.leafcoin.wallet.service.BlockchainService;
-import in.leafcoin.wallet.util.GenericUtils;
-import in.leafcoin.wallet.util.WalletUtils;
-import in.leafcoin.wallet.R;
+import in.leafco.wallet.Configuration;
+import in.leafco.wallet.Constants;
+import in.leafco.wallet.ExchangeRatesProvider;
+import in.leafco.wallet.ExchangeRatesProvider.ExchangeRate;
+import in.leafco.wallet.WalletApplication;
+import in.leafco.wallet.service.BlockchainService;
+import in.leafco.wallet.util.GenericUtils;
+import in.leafco.wallet.util.WalletUtils;
+import in.leafco.wallet.R;
 
 /**
  * @author Andreas Schildbach

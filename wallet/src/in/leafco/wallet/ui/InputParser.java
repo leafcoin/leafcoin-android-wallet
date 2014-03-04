@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.ui;
+package in.leafco.wallet.ui;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
@@ -25,7 +25,7 @@ import java.util.regex.Pattern;
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
 
-import in.leafcoin.wallet.util.Io;
+import in.leafco.wallet.util.Io;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -47,12 +47,12 @@ import com.google.leafcoin.script.Script;
 import com.google.leafcoin.uri.BitcoinURI;
 import com.google.leafcoin.uri.BitcoinURIParseException;
 
-import in.leafcoin.wallet.Constants;
-import in.leafcoin.wallet.PaymentIntent;
-import in.leafcoin.wallet.util.Bluetooth;
-import in.leafcoin.wallet.util.PaymentProtocol;
-import in.leafcoin.wallet.util.Qr;
-import in.leafcoin.wallet.R;
+import in.leafco.wallet.Constants;
+import in.leafco.wallet.PaymentIntent;
+import in.leafco.wallet.util.Bluetooth;
+import in.leafco.wallet.util.PaymentProtocol;
+import in.leafco.wallet.util.Qr;
+import in.leafco.wallet.R;
 
 /**
  * @author Andreas Schildbach

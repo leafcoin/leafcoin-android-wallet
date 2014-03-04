@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.ui;
+package in.leafco.wallet.ui;
 
 import java.net.InetAddress;
 import java.util.List;
@@ -53,9 +53,9 @@ import com.actionbarsherlock.app.SherlockListFragment;
 import com.google.leafcoin.core.Peer;
 import com.google.leafcoin.core.VersionMessage;
 
-import in.leafcoin.wallet.service.BlockchainService;
-import in.leafcoin.wallet.service.BlockchainServiceImpl;
-import in.leafcoin.wallet.R;
+import in.leafco.wallet.service.BlockchainService;
+import in.leafco.wallet.service.BlockchainServiceImpl;
+import in.leafco.wallet.R;
 
 /**
  * @author Andreas Schildbach

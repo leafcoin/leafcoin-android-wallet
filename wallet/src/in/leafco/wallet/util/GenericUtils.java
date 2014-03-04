@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.util;
+package in.leafco.wallet.util;
 
 import java.lang.reflect.Method;
 import java.math.BigDecimal;

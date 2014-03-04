@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet;
+package in.leafco.wallet;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -34,7 +34,7 @@ import java.util.concurrent.TimeUnit;
 
 import javax.annotation.Nonnull;
 
-import in.leafcoin.wallet.service.AutosyncReceiver;
+import in.leafco.wallet.service.AutosyncReceiver;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -68,12 +68,12 @@ import com.google.leafcoin.store.WalletProtobufSerializer;
 import com.google.leafcoin.utils.Threading;
 import com.google.leafcoin.wallet.WalletFiles;
 
-import in.leafcoin.wallet.service.BlockchainService;
-import in.leafcoin.wallet.service.BlockchainServiceImpl;
-import in.leafcoin.wallet.util.CrashReporter;
-import in.leafcoin.wallet.util.Io;
-import in.leafcoin.wallet.util.LinuxSecureRandom;
-import in.leafcoin.wallet.util.WalletUtils;
+import in.leafco.wallet.service.BlockchainService;
+import in.leafco.wallet.service.BlockchainServiceImpl;
+import in.leafco.wallet.util.CrashReporter;
+import in.leafco.wallet.util.Io;
+import in.leafco.wallet.util.LinuxSecureRandom;
+import in.leafco.wallet.util.WalletUtils;
 
 /**
  * @author Andreas Schildbach
@@ -555,7 +555,7 @@ public class WalletApplication extends Application
 
         final AlarmManager alarmManager = (AlarmManager) context.getSystemService(Context.ALARM_SERVICE);
         final Intent startIntent = new Intent(context, AutosyncReceiver.class);
-        startIntent.setAction("in.leafcoin.wallet.AUTOSYNC_ACTION");
+        startIntent.setAction("in.leafco.wallet.AUTOSYNC_ACTION");
         final PendingIntent alarmIntent = PendingIntent.getBroadcast(context, 0, startIntent, 0);
         alarmManager.cancel(alarmIntent);
         

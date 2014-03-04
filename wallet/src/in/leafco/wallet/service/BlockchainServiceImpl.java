@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.service;
+package in.leafco.wallet.service;
 
 import java.io.File;
 import java.io.IOException;
@@ -78,17 +78,17 @@ import com.google.leafcoin.store.BlockStoreException;
 import com.google.leafcoin.store.SPVBlockStore;
 import com.google.leafcoin.utils.Threading;
 
-import in.leafcoin.wallet.AddressBookProvider;
-import in.leafcoin.wallet.Configuration;
-import in.leafcoin.wallet.Constants;
-import in.leafcoin.wallet.WalletApplication;
-import in.leafcoin.wallet.WalletBalanceWidgetProvider;
-import in.leafcoin.wallet.ui.WalletActivity;
-import in.leafcoin.wallet.util.CrashReporter;
-import in.leafcoin.wallet.util.GenericUtils;
-import in.leafcoin.wallet.util.ThrottlingWalletChangeListener;
-import in.leafcoin.wallet.util.WalletUtils;
-import in.leafcoin.wallet.R;
+import in.leafco.wallet.AddressBookProvider;
+import in.leafco.wallet.Configuration;
+import in.leafco.wallet.Constants;
+import in.leafco.wallet.WalletApplication;
+import in.leafco.wallet.WalletBalanceWidgetProvider;
+import in.leafco.wallet.ui.WalletActivity;
+import in.leafco.wallet.util.CrashReporter;
+import in.leafco.wallet.util.GenericUtils;
+import in.leafco.wallet.util.ThrottlingWalletChangeListener;
+import in.leafco.wallet.util.WalletUtils;
+import in.leafco.wallet.R;
 
 /**
  * @author Andreas Schildbach

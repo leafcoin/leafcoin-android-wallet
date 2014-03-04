@@ -15,14 +15,14 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.service;
+package in.leafco.wallet.service;
 
 import android.content.*;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.net.wifi.WifiManager;
 import android.os.BatteryManager;
-import in.leafcoin.wallet.WalletApplication;
+import in.leafco.wallet.WalletApplication;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -30,7 +30,7 @@ import android.app.AlarmManager;
 import android.app.PendingIntent;
 import android.preference.PreferenceManager;
 import android.text.format.DateUtils;
-import in.leafcoin.wallet.Constants;
+import in.leafco.wallet.Constants;
 
 /**
  * @author Andreas Schildbach
@@ -48,7 +48,7 @@ public class AutosyncReceiver extends BroadcastReceiver
 
         // Workaround because Android sometime sucks hard...
         if (intent.getAction() == null)
-            intent.setAction("in.leafcoin.wallet.AUTOSYNC_ACTION");
+            intent.setAction("in.leafco.wallet.AUTOSYNC_ACTION");
 
 		// other app got replaced
 		if (intent.getAction().equals(Intent.ACTION_PACKAGE_REPLACED))

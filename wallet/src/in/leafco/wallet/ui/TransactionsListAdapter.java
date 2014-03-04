@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.ui;
+package in.leafco.wallet.ui;
 
 import java.math.BigInteger;
 import java.util.ArrayList;
@@ -48,11 +48,11 @@ import com.google.leafcoin.core.TransactionConfidence.ConfidenceType;
 import com.google.leafcoin.core.Wallet;
 import com.google.leafcoin.wallet.DefaultCoinSelector;
 
-import in.leafcoin.wallet.AddressBookProvider;
-import in.leafcoin.wallet.Constants;
-import in.leafcoin.wallet.util.CircularProgressView;
-import in.leafcoin.wallet.util.WalletUtils;
-import in.leafcoin.wallet.R;
+import in.leafco.wallet.AddressBookProvider;
+import in.leafco.wallet.Constants;
+import in.leafco.wallet.util.CircularProgressView;
+import in.leafco.wallet.util.WalletUtils;
+import in.leafco.wallet.R;
 
 /**
  * @author Andreas Schildbach

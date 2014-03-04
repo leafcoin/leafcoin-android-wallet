@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.util;
+package in.leafco.wallet.util;
 
 import java.io.BufferedReader;
 import java.io.InputStream;
@@ -35,7 +35,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import android.content.res.AssetManager;
-import in.leafcoin.wallet.Constants;
+import in.leafco.wallet.Constants;
 
 /**
  * @author Andreas Schildbach

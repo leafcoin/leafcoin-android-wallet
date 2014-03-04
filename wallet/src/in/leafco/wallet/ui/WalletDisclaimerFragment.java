@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.ui;
+package in.leafco.wallet.ui;
 
 import android.app.Activity;
 import android.content.BroadcastReceiver;
@@ -35,10 +35,10 @@ import android.view.ViewGroup;
 import android.view.ViewParent;
 import android.widget.FrameLayout;
 import android.widget.TextView;
-import in.leafcoin.wallet.Configuration;
-import in.leafcoin.wallet.WalletApplication;
-import in.leafcoin.wallet.service.BlockchainService;
-import in.leafcoin.wallet.R;
+import in.leafco.wallet.Configuration;
+import in.leafco.wallet.WalletApplication;
+import in.leafco.wallet.service.BlockchainService;
+import in.leafco.wallet.R;
 
 /**
  * @author Andreas Schildbach

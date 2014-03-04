@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.ui;
+package in.leafco.wallet.ui;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -36,9 +36,9 @@ import com.actionbarsherlock.view.MenuItem;
 import com.google.leafcoin.core.Address;
 import com.google.leafcoin.core.ECKey;
 
-import in.leafcoin.wallet.Constants;
-import in.leafcoin.wallet.util.ViewPagerTabs;
-import in.leafcoin.wallet.R;
+import in.leafco.wallet.Constants;
+import in.leafco.wallet.util.ViewPagerTabs;
+import in.leafco.wallet.R;
 
 /**
  * @author Andreas Schildbach

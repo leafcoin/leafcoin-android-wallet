@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.ui;
+package in.leafco.wallet.ui;
 
 import android.app.Activity;
 import android.content.DialogInterface;
@@ -26,8 +26,8 @@ import android.os.Bundle;
 import com.google.leafcoin.core.Address;
 import com.google.leafcoin.core.Transaction;
 
-import in.leafcoin.wallet.PaymentIntent;
-import in.leafcoin.wallet.ui.InputParser.StringInputParser;
+import in.leafco.wallet.PaymentIntent;
+import in.leafco.wallet.ui.InputParser.StringInputParser;
 
 /**
  * @author Andreas Schildbach

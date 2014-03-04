@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.offline;
+package in.leafco.wallet.offline;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
@@ -37,9 +37,9 @@ import android.bluetooth.BluetoothSocket;
 import com.google.leafcoin.core.ProtocolException;
 import com.google.leafcoin.core.Transaction;
 
-import in.leafcoin.wallet.Constants;
-import in.leafcoin.wallet.util.Bluetooth;
-import in.leafcoin.wallet.util.PaymentProtocol;
+import in.leafco.wallet.Constants;
+import in.leafco.wallet.util.Bluetooth;
+import in.leafco.wallet.util.PaymentProtocol;
 
 /**
  * @author Shahar Livne

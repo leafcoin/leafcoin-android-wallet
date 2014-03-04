@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.util;
+package in.leafco.wallet.util;
 
 import java.util.Arrays;
 
@@ -28,7 +28,7 @@ import android.nfc.NdefMessage;
 import android.nfc.NdefRecord;
 import android.nfc.NfcAdapter;
 import android.nfc.NfcManager;
-import in.leafcoin.wallet.Constants;
+import in.leafco.wallet.Constants;
 
 /**
  * @author Andreas Schildbach

@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.ui;
+package in.leafco.wallet.ui;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -28,9 +28,9 @@ import com.actionbarsherlock.app.SherlockPreferenceActivity;
 import com.actionbarsherlock.view.MenuItem;
 import com.google.leafcoin.core.VersionMessage;
 
-import in.leafcoin.wallet.Constants;
-import in.leafcoin.wallet.WalletApplication;
-import in.leafcoin.wallet.R;
+import in.leafco.wallet.Constants;
+import in.leafco.wallet.WalletApplication;
+import in.leafco.wallet.R;
 
 /**
  * @author Andreas Schildbach

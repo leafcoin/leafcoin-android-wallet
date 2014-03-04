@@ -15,15 +15,15 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.ui;
+package in.leafco.wallet.ui;
 
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.OnSharedPreferenceChangeListener;
 import android.support.v4.content.CursorLoader;
-import in.leafcoin.wallet.Configuration;
-import in.leafcoin.wallet.Constants;
-import in.leafcoin.wallet.ExchangeRatesProvider;
+import in.leafco.wallet.Configuration;
+import in.leafco.wallet.Constants;
+import in.leafco.wallet.ExchangeRatesProvider;
 
 /**
  * @author Andreas Schildbach

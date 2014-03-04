@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.service;
+package in.leafco.wallet.service;
 
 import java.util.List;
 
@@ -24,7 +24,7 @@ import javax.annotation.CheckForNull;
 import com.google.leafcoin.core.Peer;
 import com.google.leafcoin.core.StoredBlock;
 
-import in.leafcoin.wallet.R;
+import in.leafco.wallet.R;
 
 /**
  * @author Andreas Schildbach

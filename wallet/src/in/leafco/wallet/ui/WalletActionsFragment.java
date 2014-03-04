@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.ui;
+package in.leafco.wallet.ui;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -26,7 +26,7 @@ import android.view.View.OnClickListener;
 import android.view.ViewGroup;
 import android.view.ViewParent;
 import android.widget.FrameLayout;
-import in.leafcoin.wallet.R;
+import in.leafco.wallet.R;
 
 /**
  * @author Andreas Schildbach

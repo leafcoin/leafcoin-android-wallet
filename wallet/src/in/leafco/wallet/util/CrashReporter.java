@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.util;
+package in.leafco.wallet.util;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -48,8 +48,8 @@ import com.google.leafcoin.core.Transaction;
 import com.google.leafcoin.core.TransactionOutput;
 import com.google.leafcoin.core.Wallet;
 
-import in.leafcoin.wallet.Constants;
-import in.leafcoin.wallet.WalletApplication;
+import in.leafco.wallet.Constants;
+import in.leafco.wallet.WalletApplication;
 
 /**
  * @author Andreas Schildbach

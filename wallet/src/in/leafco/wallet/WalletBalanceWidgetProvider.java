@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet;
+package in.leafco.wallet;
 
 import java.math.BigInteger;
 
@@ -34,12 +34,12 @@ import android.widget.RemoteViews;
 import com.google.leafcoin.core.Wallet;
 import com.google.leafcoin.core.Wallet.BalanceType;
 
-import in.leafcoin.wallet.ui.RequestCoinsActivity;
-import in.leafcoin.wallet.ui.SendCoinsActivity;
-import in.leafcoin.wallet.ui.SendCoinsQrActivity;
-import in.leafcoin.wallet.ui.WalletActivity;
-import in.leafcoin.wallet.util.GenericUtils;
-import in.leafcoin.wallet.util.WalletUtils;
+import in.leafco.wallet.ui.RequestCoinsActivity;
+import in.leafco.wallet.ui.SendCoinsActivity;
+import in.leafco.wallet.ui.SendCoinsQrActivity;
+import in.leafco.wallet.ui.WalletActivity;
+import in.leafco.wallet.util.GenericUtils;
+import in.leafco.wallet.util.WalletUtils;
 
 /**
  * @author Andreas Schildbach

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package in.leafcoin.wallet.integration.android;
+package in.leafco.wallet.integration.android;
 
 import android.app.Activity;
 import android.content.Context;
@@ -271,7 +271,7 @@ public final class BitcoinIntegration
 	{
 		Toast.makeText(context, "No Leafcoin application found.\nPlease install Leafcoin Wallet.", Toast.LENGTH_LONG).show();
 
-		final Intent marketIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=in.leafcoin.wallet"));
+		final Intent marketIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=in.leafco.wallet"));
 		final Intent binaryIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://langerhans.github.io/leafcoin-wallet-new/"));
 
 		final PackageManager pm = context.getPackageManager();

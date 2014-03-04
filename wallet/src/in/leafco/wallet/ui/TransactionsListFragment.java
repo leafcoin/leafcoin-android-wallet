@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.ui;
+package in.leafco.wallet.ui;
 
 import java.math.BigInteger;
 import java.text.DateFormat;
@@ -70,16 +70,16 @@ import com.google.leafcoin.core.TransactionConfidence.ConfidenceType;
 import com.google.leafcoin.core.Wallet;
 import com.google.leafcoin.utils.Threading;
 
-import in.leafcoin.wallet.AddressBookProvider;
-import in.leafcoin.wallet.Configuration;
-import in.leafcoin.wallet.Constants;
-import in.leafcoin.wallet.WalletApplication;
-import in.leafcoin.wallet.util.BitmapFragment;
-import in.leafcoin.wallet.util.Nfc;
-import in.leafcoin.wallet.util.Qr;
-import in.leafcoin.wallet.util.ThrottlingWalletChangeListener;
-import in.leafcoin.wallet.util.WalletUtils;
-import in.leafcoin.wallet.R;
+import in.leafco.wallet.AddressBookProvider;
+import in.leafco.wallet.Configuration;
+import in.leafco.wallet.Constants;
+import in.leafco.wallet.WalletApplication;
+import in.leafco.wallet.util.BitmapFragment;
+import in.leafco.wallet.util.Nfc;
+import in.leafco.wallet.util.Qr;
+import in.leafco.wallet.util.ThrottlingWalletChangeListener;
+import in.leafco.wallet.util.WalletUtils;
+import in.leafco.wallet.R;
 
 /**
  * @author Andreas Schildbach

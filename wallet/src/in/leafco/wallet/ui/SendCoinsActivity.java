@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.ui;
+package in.leafco.wallet.ui;
 
 import javax.annotation.Nonnull;
 
@@ -27,8 +27,8 @@ import com.actionbarsherlock.app.ActionBar;
 import com.actionbarsherlock.view.Menu;
 import com.actionbarsherlock.view.MenuItem;
 
-import in.leafcoin.wallet.PaymentIntent;
-import in.leafcoin.wallet.R;
+import in.leafco.wallet.PaymentIntent;
+import in.leafco.wallet.R;
 
 /**
  * @author Andreas Schildbach

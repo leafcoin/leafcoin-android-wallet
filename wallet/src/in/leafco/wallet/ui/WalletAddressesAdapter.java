@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.ui;
+package in.leafco.wallet.ui;
 
 import java.text.DateFormat;
 import java.util.ArrayList;
@@ -38,10 +38,10 @@ import com.google.leafcoin.core.Address;
 import com.google.leafcoin.core.ECKey;
 import com.google.leafcoin.core.Wallet;
 
-import in.leafcoin.wallet.AddressBookProvider;
-import in.leafcoin.wallet.Constants;
-import in.leafcoin.wallet.util.WalletUtils;
-import in.leafcoin.wallet.R;
+import in.leafco.wallet.AddressBookProvider;
+import in.leafco.wallet.Constants;
+import in.leafco.wallet.util.WalletUtils;
+import in.leafco.wallet.R;
 
 /**
  * @author Andreas Schildbach

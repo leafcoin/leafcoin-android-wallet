@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.ui;
+package in.leafco.wallet.ui;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -25,9 +25,9 @@ import android.support.v4.view.ViewPager;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import in.leafcoin.wallet.ui.TransactionsListFragment.Direction;
-import in.leafcoin.wallet.util.ViewPagerTabs;
-import in.leafcoin.wallet.R;
+import in.leafco.wallet.ui.TransactionsListFragment.Direction;
+import in.leafco.wallet.util.ViewPagerTabs;
+import in.leafco.wallet.R;
 
 /**
  * @author Andreas Schildbach

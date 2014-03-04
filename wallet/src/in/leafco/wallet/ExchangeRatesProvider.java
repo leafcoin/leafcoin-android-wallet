@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet;
+package in.leafco.wallet;
 
 import java.io.BufferedInputStream;
 import java.io.IOException;
@@ -50,8 +50,8 @@ import android.net.Uri;
 import android.preference.PreferenceManager;
 import android.provider.BaseColumns;
 import android.text.format.DateUtils;
-import in.leafcoin.wallet.util.GenericUtils;
-import in.leafcoin.wallet.util.Io;
+import in.leafco.wallet.util.GenericUtils;
+import in.leafco.wallet.util.Io;
 
 /**
  * @author Andreas Schildbach

@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.offline;
+package in.leafco.wallet.offline;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -37,8 +37,8 @@ import com.google.leafcoin.core.Transaction;
 import com.google.leafcoin.core.VerificationException;
 import com.google.leafcoin.core.Wallet;
 
-import in.leafcoin.wallet.Constants;
-import in.leafcoin.wallet.WalletApplication;
+import in.leafco.wallet.Constants;
+import in.leafco.wallet.WalletApplication;
 
 /**
  * @author Andreas Schildbach

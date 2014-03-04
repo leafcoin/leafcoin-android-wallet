@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package in.leafcoin.wallet.ui;
+package in.leafco.wallet.ui;
 
 import java.math.BigInteger;
 import java.util.concurrent.RejectedExecutionException;
@@ -32,7 +32,7 @@ import com.google.leafcoin.core.Wallet;
 import com.google.leafcoin.core.Wallet.BalanceType;
 import com.google.leafcoin.utils.Threading;
 
-import in.leafcoin.wallet.util.ThrottlingWalletChangeListener;
+import in.leafco.wallet.util.ThrottlingWalletChangeListener;
 
 /**
  * @author Andreas Schildbach
