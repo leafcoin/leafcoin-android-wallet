@@ -1,5 +1,3 @@
--- PROJECT NOT COMPLETED YET --
-
 Welcome to _Leafcoin Wallet_, a standalone Leafcoin payment app for your Android device!
 
 This project contains several sub-projects:
