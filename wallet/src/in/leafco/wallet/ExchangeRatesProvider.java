@@ -104,9 +104,15 @@ public class ExchangeRatesProvider extends ContentProvider
 	{
 		try
 		{
-			BITCOINAVERAGE_URL = new URL("https://api.bitcoinaverage.com/ticker/global/all");
+			/* BITCOINAVERAGE_URL = new URL("https://api.bitcoinaverage.com/ticker/global/all");
             BLOCKCHAININFO_URL = new URL("https://blockchain.info/ticker");
             LEAFPOOL_URL = new URL("http://leafco.in/pools");
+            CRYPTSY_URL = new URL("http://pubapi.cryptsy.com/api.php?method=singlemarketdata&marketid=148");
+            VIRCUREX_URL = new URL("https://vircurex.com/api/get_last_trade.json?base=DOGE&alt=BTC");
+            */
+            BITCOINAVERAGE_URL = new URL("https://api.bitcoinaverage.com/ticker/global/all");
+            BLOCKCHAININFO_URL = new URL("https://blockchain.info/ticker");
+            LEAFPOOL_URL = new URL("http://leafco.in/last");
             CRYPTSY_URL = new URL("http://pubapi.cryptsy.com/api.php?method=singlemarketdata&marketid=148");
             VIRCUREX_URL = new URL("https://vircurex.com/api/get_last_trade.json?base=LEAF&alt=BTC");
 		}
