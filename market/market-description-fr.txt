@@ -12,10 +12,10 @@ FONCTIONS :
 • Widget affichant le solde Leafcoin.
 
 Vous pouvez en apprendre plus au sujet de Leafcoin sur
-http://leafcoin.org
+http://leafco.in
 
 Si vous voulez contribuer à Leafcoin Wallet, le projet se trouve sur
-https://github.com/langerhans/leafcoin-wallet-new
+https://github.com/leafcoin/leafcoin-android-wallet
 
 This is a fork of the popular Leafcoin Wallet by Andreas Schildbach and was converted to Leafcoin by me.
 Find the original at

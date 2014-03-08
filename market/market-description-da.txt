@@ -12,10 +12,10 @@ FUNKTIONER:
 • App-widget for Leafcoin-saldo.
 
 Du kan finde mere om Leafcoin på
-http://leafcoin.org
+http://leafco.in
 
 Hvis du vil bidrage til Leafcoin Wallet, kan projektet findes på
-https://github.com/langerhans/leafcoin-wallet-new
+https://github.com/leafcoin/leafcoin-android-wallet
 
 This is a fork of the popular Bitcoin Wallet by Andreas Schildbach and was converted to Leafcoin by me.
 Find the original at

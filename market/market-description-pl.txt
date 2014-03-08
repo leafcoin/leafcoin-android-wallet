@@ -12,10 +12,10 @@ WŁAŚCIWOŚCI:
 • Widget aplikacji dla stanu konta.
 
 Dowiedz się więcej o Leafcoin
-http://leafcoin.org
+http://leafco.in
 
 Jeśli chcesz przyczynić się do rozwoju Leafcoin Wallet to projekt znajduje się pod adresem
-https://github.com/langerhans/leafcoin-wallet-new
+https://github.com/leafcoin/leafcoin-android-wallet
 
 This is a fork of the popular Leafcoin Wallet by Andreas Schildbach and was converted to Leafcoin by me.
 Find the original at

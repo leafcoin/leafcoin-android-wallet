@@ -12,10 +12,10 @@
 • Виджет для отображения баланса Leafcoin.
 
 Вы можете узнать больше о Leafcoin на
-http://leafcoin.org
+http://leafco.in
 
 Если вы хотите помочь бумажнику Leafcoin, проект располагается по адресу
-https://github.com/langerhans/leafcoin-wallet-new
+https://github.com/leafcoin/leafcoin-android-wallet
 
 This is a fork of the popular Bitcoin Wallet by Andreas Schildbach and was converted to Leafcoin by me.
 Find the original at

@@ -1,0 +1,605 @@
+ De volumenaam van station C is SYSTEEM
+ Het volumenummer is 4C7E-A5E0
+
+ Map van C:\Documents and Settings\default\Bureaublad\ANDROID_WALLET\dogecoin-wallet-new-master\market
+
+02-03-2014  12:00           171.280 market-feature-graphic.png
+02-03-2014  12:00            23.096 market-promo-graphic.png
+02-03-2014  12:00            12.364 market-url-qr.png
+02-03-2014  12:00            62.152 screenshot-address-book-7in.png
+02-03-2014  12:00           187.016 screenshot-address-book.png
+02-03-2014  12:00           275.230 screenshot-block-explorer.png
+02-03-2014  12:00           198.340 screenshot-exchange-rates.png
+02-03-2014  12:00           276.882 screenshot-peer-monitor.png
+02-03-2014  12:00            43.719 screenshot-request-coins-7in.png
+02-03-2014  12:00           169.452 screenshot-request-coins.png
+02-03-2014  12:00           108.808 screenshot-send-coins.png
+02-03-2014  12:00            94.437 screenshot-wallet-7in.png
+02-03-2014  12:00           180.757 screenshot-wallet-qrcode.png
+02-03-2014  12:00           250.259 screenshot-wallet.png
+02-03-2014  12:00         2.589.713 screenshot-widget.png
+02-03-2014  12:00           156.815 web_hi_res_512.png
+              16 bestand(en)        4.800.320 bytes
+
+ Map van C:\Documents and Settings\default\Bureaublad\ANDROID_WALLET\dogecoin-wallet-new-master\wallet\gen-external-apklibs\com.actionbarsherlock_library_4.1.0\res\drawable-hdpi
+
+04-03-2014  22:44               144 abs__ab_bottom_solid_dark_holo.9.png
+04-03-2014  22:44               138 abs__ab_bottom_solid_inverse_holo.9.png
+04-03-2014  22:44               144 abs__ab_bottom_solid_light_holo.9.png
+04-03-2014  22:44               135 abs__ab_bottom_transparent_dark_holo.9.png
+04-03-2014  22:44               134 abs__ab_bottom_transparent_light_holo.9.png
+04-03-2014  22:44             2.866 abs__ab_share_pack_holo_dark.9.png
+04-03-2014  22:44             2.862 abs__ab_share_pack_holo_light.9.png
+04-03-2014  22:44               146 abs__ab_solid_dark_holo.9.png
+04-03-2014  22:44               145 abs__ab_solid_light_holo.9.png
+04-03-2014  22:44               192 abs__ab_solid_shadow_holo.9.png
+04-03-2014  22:44               146 abs__ab_stacked_solid_dark_holo.9.png
+04-03-2014  22:44               146 abs__ab_stacked_solid_light_holo.9.png
+04-03-2014  22:44               139 abs__ab_stacked_transparent_dark_holo.9.png
+04-03-2014  22:44               133 abs__ab_stacked_transparent_light_holo.9.png
+04-03-2014  22:44               155 abs__ab_transparent_dark_holo.9.png
+04-03-2014  22:44               145 abs__ab_transparent_light_holo.9.png
+04-03-2014  22:44               104 abs__btn_cab_done_default_holo_dark.9.png
+04-03-2014  22:44               102 abs__btn_cab_done_default_holo_light.9.png
+04-03-2014  22:44               112 abs__btn_cab_done_focused_holo_dark.9.png
+04-03-2014  22:44               108 abs__btn_cab_done_focused_holo_light.9.png
+04-03-2014  22:44               110 abs__btn_cab_done_pressed_holo_dark.9.png
+04-03-2014  22:44               108 abs__btn_cab_done_pressed_holo_light.9.png
+04-03-2014  22:44               149 abs__cab_background_bottom_holo_dark.9.png
+04-03-2014  22:44               145 abs__cab_background_bottom_holo_light.9.png
+04-03-2014  22:44               147 abs__cab_background_top_holo_dark.9.png
+04-03-2014  22:44               147 abs__cab_background_top_holo_light.9.png
+04-03-2014  22:44             1.414 abs__dialog_full_holo_dark.9.png
+04-03-2014  22:44             1.537 abs__dialog_full_holo_light.9.png
+04-03-2014  22:44               602 abs__ic_ab_back_holo_dark.png
+04-03-2014  22:44               546 abs__ic_ab_back_holo_light.png
+04-03-2014  22:44               713 abs__ic_cab_done_holo_dark.png
+04-03-2014  22:44               737 abs__ic_cab_done_holo_light.png
+04-03-2014  22:44               144 abs__ic_menu_moreoverflow_normal_holo_dark.png
+04-03-2014  22:44               148 abs__ic_menu_moreoverflow_normal_holo_light.png
+04-03-2014  22:44               467 abs__ic_menu_share_holo_dark.png
+04-03-2014  22:44               505 abs__ic_menu_share_holo_light.png
+04-03-2014  22:44               154 abs__list_activated_holo.9.png
+04-03-2014  22:44                78 abs__list_divider_holo_dark.9.png
+04-03-2014  22:44                76 abs__list_divider_holo_light.9.png
+04-03-2014  22:44               159 abs__list_focused_holo.9.png
+04-03-2014  22:44               154 abs__list_longpressed_holo.9.png
+04-03-2014  22:44               159 abs__list_pressed_holo_dark.9.png
+04-03-2014  22:44               159 abs__list_pressed_holo_light.9.png
+04-03-2014  22:44               189 abs__list_selector_disabled_holo_dark.9.png
+04-03-2014  22:44               189 abs__list_selector_disabled_holo_light.9.png
+04-03-2014  22:44               922 abs__menu_dropdown_panel_holo_dark.9.png
+04-03-2014  22:44             1.061 abs__menu_dropdown_panel_holo_light.9.png
+04-03-2014  22:44               178 abs__progress_bg_holo_dark.9.png
+04-03-2014  22:44               174 abs__progress_bg_holo_light.9.png
+04-03-2014  22:44               917 abs__progress_primary_holo_dark.9.png
+04-03-2014  22:44               917 abs__progress_primary_holo_light.9.png
+04-03-2014  22:44               188 abs__progress_secondary_holo_dark.9.png
+04-03-2014  22:44               188 abs__progress_secondary_holo_light.9.png
+04-03-2014  22:44             2.081 abs__spinner_48_inner_holo.png
+04-03-2014  22:44             1.811 abs__spinner_48_outer_holo.png
+04-03-2014  22:44               311 abs__spinner_ab_default_holo_dark.9.png
+04-03-2014  22:44               312 abs__spinner_ab_default_holo_light.9.png
+04-03-2014  22:44               306 abs__spinner_ab_disabled_holo_dark.9.png
+04-03-2014  22:44               306 abs__spinner_ab_disabled_holo_light.9.png
+04-03-2014  22:44               524 abs__spinner_ab_focused_holo_dark.9.png
+04-03-2014  22:44               523 abs__spinner_ab_focused_holo_light.9.png
+04-03-2014  22:44               464 abs__spinner_ab_pressed_holo_dark.9.png
+04-03-2014  22:44               458 abs__spinner_ab_pressed_holo_light.9.png
+04-03-2014  22:44               147 abs__tab_selected_focused_holo.9.png
+04-03-2014  22:44               148 abs__tab_selected_holo.9.png
+04-03-2014  22:44               147 abs__tab_selected_pressed_holo.9.png
+04-03-2014  22:44               145 abs__tab_unselected_pressed_holo.9.png
+              67 bestand(en)           29.360 bytes
+
+ Map van C:\Documents and Settings\default\Bureaublad\ANDROID_WALLET\dogecoin-wallet-new-master\wallet\gen-external-apklibs\com.actionbarsherlock_library_4.1.0\res\drawable-mdpi
+
+04-03-2014  22:44               134 abs__ab_bottom_solid_dark_holo.9.png
+04-03-2014  22:44               129 abs__ab_bottom_solid_inverse_holo.9.png
+04-03-2014  22:44               134 abs__ab_bottom_solid_light_holo.9.png
+04-03-2014  22:44               123 abs__ab_bottom_transparent_dark_holo.9.png
+04-03-2014  22:44               123 abs__ab_bottom_transparent_light_holo.9.png
+04-03-2014  22:44             2.851 abs__ab_share_pack_holo_dark.9.png
+04-03-2014  22:44               122 abs__ab_share_pack_holo_light.9.png
+04-03-2014  22:44               133 abs__ab_solid_dark_holo.9.png
+04-03-2014  22:44               133 abs__ab_solid_light_holo.9.png
+04-03-2014  22:44               168 abs__ab_solid_shadow_holo.9.png
+04-03-2014  22:44               134 abs__ab_stacked_solid_dark_holo.9.png
+04-03-2014  22:44               133 abs__ab_stacked_solid_light_holo.9.png
+04-03-2014  22:44               127 abs__ab_stacked_transparent_dark_holo.9.png
+04-03-2014  22:44               123 abs__ab_stacked_transparent_light_holo.9.png
+04-03-2014  22:44               139 abs__ab_transparent_dark_holo.9.png
+04-03-2014  22:44               133 abs__ab_transparent_light_holo.9.png
+04-03-2014  22:44               101 abs__btn_cab_done_default_holo_dark.9.png
+04-03-2014  22:44                99 abs__btn_cab_done_default_holo_light.9.png
+04-03-2014  22:44               109 abs__btn_cab_done_focused_holo_dark.9.png
+04-03-2014  22:44               105 abs__btn_cab_done_focused_holo_light.9.png
+04-03-2014  22:44               107 abs__btn_cab_done_pressed_holo_dark.9.png
+04-03-2014  22:44               105 abs__btn_cab_done_pressed_holo_light.9.png
+04-03-2014  22:44               127 abs__cab_background_bottom_holo_dark.9.png
+04-03-2014  22:44               124 abs__cab_background_bottom_holo_light.9.png
+04-03-2014  22:44               130 abs__cab_background_top_holo_dark.9.png
+04-03-2014  22:44               128 abs__cab_background_top_holo_light.9.png
+04-03-2014  22:44               882 abs__dialog_full_holo_dark.9.png
+04-03-2014  22:44             1.003 abs__dialog_full_holo_light.9.png
+04-03-2014  22:44               466 abs__ic_ab_back_holo_dark.png
+04-03-2014  22:44               438 abs__ic_ab_back_holo_light.png
+04-03-2014  22:44               566 abs__ic_cab_done_holo_dark.png
+04-03-2014  22:44               552 abs__ic_cab_done_holo_light.png
+04-03-2014  22:44               122 abs__ic_menu_moreoverflow_normal_holo_dark.png
+04-03-2014  22:44               131 abs__ic_menu_moreoverflow_normal_holo_light.png
+04-03-2014  22:44               332 abs__ic_menu_share_holo_dark.png
+04-03-2014  22:44               355 abs__ic_menu_share_holo_light.png
+04-03-2014  22:44               151 abs__list_activated_holo.9.png
+04-03-2014  22:44                78 abs__list_divider_holo_dark.9.png
+04-03-2014  22:44                76 abs__list_divider_holo_light.9.png
+04-03-2014  22:44               158 abs__list_focused_holo.9.png
+04-03-2014  22:44               151 abs__list_longpressed_holo.9.png
+04-03-2014  22:44               158 abs__list_pressed_holo_dark.9.png
+04-03-2014  22:44               158 abs__list_pressed_holo_light.9.png
+04-03-2014  22:44               172 abs__list_selector_disabled_holo_dark.9.png
+04-03-2014  22:44               171 abs__list_selector_disabled_holo_light.9.png
+04-03-2014  22:44               651 abs__menu_dropdown_panel_holo_dark.9.png
+04-03-2014  22:44               720 abs__menu_dropdown_panel_holo_light.9.png
+04-03-2014  22:44               165 abs__progress_bg_holo_dark.9.png
+04-03-2014  22:44               159 abs__progress_bg_holo_light.9.png
+04-03-2014  22:44               572 abs__progress_primary_holo_dark.9.png
+04-03-2014  22:44               572 abs__progress_primary_holo_light.9.png
+04-03-2014  22:44               170 abs__progress_secondary_holo_dark.9.png
+04-03-2014  22:44               170 abs__progress_secondary_holo_light.9.png
+04-03-2014  22:44             1.336 abs__spinner_48_inner_holo.png
+04-03-2014  22:44             1.165 abs__spinner_48_outer_holo.png
+04-03-2014  22:44               254 abs__spinner_ab_default_holo_dark.9.png
+04-03-2014  22:44               255 abs__spinner_ab_default_holo_light.9.png
+04-03-2014  22:44               249 abs__spinner_ab_disabled_holo_dark.9.png
+04-03-2014  22:44               249 abs__spinner_ab_disabled_holo_light.9.png
+04-03-2014  22:44               417 abs__spinner_ab_focused_holo_dark.9.png
+04-03-2014  22:44               424 abs__spinner_ab_focused_holo_light.9.png
+04-03-2014  22:44               370 abs__spinner_ab_pressed_holo_dark.9.png
+04-03-2014  22:44               370 abs__spinner_ab_pressed_holo_light.9.png
+04-03-2014  22:44               148 abs__tab_selected_focused_holo.9.png
+04-03-2014  22:44               151 abs__tab_selected_holo.9.png
+04-03-2014  22:44               150 abs__tab_selected_pressed_holo.9.png
+04-03-2014  22:44               155 abs__tab_unselected_pressed_holo.9.png
+              67 bestand(en)           20.966 bytes
+
+ Map van C:\Documents and Settings\default\Bureaublad\ANDROID_WALLET\dogecoin-wallet-new-master\wallet\gen-external-apklibs\com.actionbarsherlock_library_4.1.0\res\drawable-xhdpi
+
+04-03-2014  22:44               165 abs__ab_bottom_solid_dark_holo.9.png
+04-03-2014  22:44               157 abs__ab_bottom_solid_inverse_holo.9.png
+04-03-2014  22:44               166 abs__ab_bottom_solid_light_holo.9.png
+04-03-2014  22:44               153 abs__ab_bottom_transparent_dark_holo.9.png
+04-03-2014  22:44               152 abs__ab_bottom_transparent_light_holo.9.png
+04-03-2014  22:44             2.875 abs__ab_share_pack_holo_dark.9.png
+04-03-2014  22:44             2.869 abs__ab_share_pack_holo_light.9.png
+04-03-2014  22:44               163 abs__ab_solid_dark_holo.9.png
+04-03-2014  22:44               163 abs__ab_solid_light_holo.9.png
+04-03-2014  22:44               290 abs__ab_solid_shadow_holo.9.png
+04-03-2014  22:44               163 abs__ab_stacked_solid_dark_holo.9.png
+04-03-2014  22:44               163 abs__ab_stacked_solid_light_holo.9.png
+04-03-2014  22:44               158 abs__ab_stacked_transparent_dark_holo.9.png
+04-03-2014  22:44               152 abs__ab_stacked_transparent_light_holo.9.png
+04-03-2014  22:44               171 abs__ab_transparent_dark_holo.9.png
+04-03-2014  22:44               160 abs__ab_transparent_light_holo.9.png
+04-03-2014  22:44               109 abs__btn_cab_done_default_holo_dark.9.png
+04-03-2014  22:44               108 abs__btn_cab_done_default_holo_light.9.png
+04-03-2014  22:44               112 abs__btn_cab_done_focused_holo_dark.9.png
+04-03-2014  22:44               113 abs__btn_cab_done_focused_holo_light.9.png
+04-03-2014  22:44               115 abs__btn_cab_done_pressed_holo_dark.9.png
+04-03-2014  22:44               113 abs__btn_cab_done_pressed_holo_light.9.png
+04-03-2014  22:44               166 abs__cab_background_bottom_holo_dark.9.png
+04-03-2014  22:44               161 abs__cab_background_bottom_holo_light.9.png
+04-03-2014  22:44               174 abs__cab_background_top_holo_dark.9.png
+04-03-2014  22:44               161 abs__cab_background_top_holo_light.9.png
+04-03-2014  22:44             2.159 abs__dialog_full_holo_dark.9.png
+04-03-2014  22:44             2.302 abs__dialog_full_holo_light.9.png
+04-03-2014  22:44               741 abs__ic_ab_back_holo_dark.png
+04-03-2014  22:44               661 abs__ic_ab_back_holo_light.png
+04-03-2014  22:44               970 abs__ic_cab_done_holo_dark.png
+04-03-2014  22:44               915 abs__ic_cab_done_holo_light.png
+04-03-2014  22:44               167 abs__ic_menu_moreoverflow_normal_holo_dark.png
+04-03-2014  22:44               184 abs__ic_menu_moreoverflow_normal_holo_light.png
+04-03-2014  22:44               699 abs__ic_menu_share_holo_dark.png
+04-03-2014  22:44               935 abs__ic_menu_share_holo_light.png
+04-03-2014  22:44               158 abs__list_activated_holo.9.png
+04-03-2014  22:44                83 abs__list_divider_holo_dark.9.png
+04-03-2014  22:44                83 abs__list_divider_holo_light.9.png
+04-03-2014  22:44               163 abs__list_focused_holo.9.png
+04-03-2014  22:44               158 abs__list_longpressed_holo.9.png
+04-03-2014  22:44               163 abs__list_pressed_holo_dark.9.png
+04-03-2014  22:44               163 abs__list_pressed_holo_light.9.png
+04-03-2014  22:44               190 abs__list_selector_disabled_holo_dark.9.png
+04-03-2014  22:44               188 abs__list_selector_disabled_holo_light.9.png
+04-03-2014  22:44             1.362 abs__menu_dropdown_panel_holo_dark.9.png
+04-03-2014  22:44             1.551 abs__menu_dropdown_panel_holo_light.9.png
+04-03-2014  22:44               174 abs__progress_bg_holo_dark.9.png
+04-03-2014  22:44               172 abs__progress_bg_holo_light.9.png
+04-03-2014  22:44             1.309 abs__progress_primary_holo_dark.9.png
+04-03-2014  22:44             1.309 abs__progress_primary_holo_light.9.png
+04-03-2014  22:44               184 abs__progress_secondary_holo_dark.9.png
+04-03-2014  22:44               184 abs__progress_secondary_holo_light.9.png
+04-03-2014  22:44             2.769 abs__spinner_48_inner_holo.png
+04-03-2014  22:44             2.432 abs__spinner_48_outer_holo.png
+04-03-2014  22:44               395 abs__spinner_ab_default_holo_dark.9.png
+04-03-2014  22:44               394 abs__spinner_ab_default_holo_light.9.png
+04-03-2014  22:44               381 abs__spinner_ab_disabled_holo_dark.9.png
+04-03-2014  22:44               381 abs__spinner_ab_disabled_holo_light.9.png
+04-03-2014  22:44               680 abs__spinner_ab_focused_holo_dark.9.png
+04-03-2014  22:44               671 abs__spinner_ab_focused_holo_light.9.png
+04-03-2014  22:44               609 abs__spinner_ab_pressed_holo_dark.9.png
+04-03-2014  22:44               602 abs__spinner_ab_pressed_holo_light.9.png
+04-03-2014  22:44               147 abs__tab_selected_focused_holo.9.png
+04-03-2014  22:44               153 abs__tab_selected_holo.9.png
+04-03-2014  22:44               147 abs__tab_selected_pressed_holo.9.png
+04-03-2014  22:44               149 abs__tab_unselected_pressed_holo.9.png
+              67 bestand(en)           36.689 bytes
+
+ Map van C:\Documents and Settings\default\Bureaublad\ANDROID_WALLET\dogecoin-wallet-new-master\wallet\res\drawable-hdpi
+
+02-03-2014  12:00             2.909 appwidget_dark_bg.9.png
+02-03-2014  12:00             3.273 appwidget_dark_bg_focused.9.png
+02-03-2014  12:00             3.279 appwidget_dark_bg_pressed.9.png
+02-03-2014  12:00                78 appwidget_divider.9.png
+02-03-2014  12:00               221 appwidget_inner_focused_c.9.png
+02-03-2014  12:00               400 appwidget_inner_focused_l.9.png
+02-03-2014  12:00               423 appwidget_inner_focused_r.9.png
+02-03-2014  12:00               223 appwidget_inner_pressed_c.9.png
+02-03-2014  12:00               408 appwidget_inner_pressed_l.9.png
+02-03-2014  12:00               419 appwidget_inner_pressed_r.9.png
+08-03-2014  10:15            11.321 app_icon.png
+02-03-2014  12:00               408 btn_check_off.png
+02-03-2014  12:00               374 btn_check_off_disable.png
+02-03-2014  12:00               503 btn_check_off_disable_focused.png
+02-03-2014  12:00             2.200 btn_check_off_pressed.png
+02-03-2014  12:00             2.398 btn_check_off_selected.png
+02-03-2014  12:00             1.756 btn_check_on.png
+02-03-2014  12:00             1.001 btn_check_on_disable.png
+02-03-2014  12:00             1.279 btn_check_on_disable_focused.png
+02-03-2014  12:00             2.683 btn_check_on_pressed.png
+02-03-2014  12:00             2.841 btn_check_on_selected.png
+02-03-2014  12:00               927 btn_default_normal.9.png
+02-03-2014  12:00             3.601 btn_default_normal_disable.9.png
+02-03-2014  12:00               862 btn_default_normal_disable_focused.9.png
+02-03-2014  12:00               975 btn_default_pressed.9.png
+02-03-2014  12:00               579 btn_default_selected.9.png
+02-03-2014  12:00               529 coinbase.png
+02-03-2014  12:00               707 dropdown_ic_arrow_focused_holo_light.png
+02-03-2014  12:00               551 dropdown_ic_arrow_normal_holo_light.png
+02-03-2014  12:00               739 dropdown_ic_arrow_pressed_holo_light.png
+02-03-2014  12:00               389 dropdown_ic_arrow_small_focused_holo_light.png
+02-03-2014  12:00               306 dropdown_ic_arrow_small_normal_holo_light.png
+02-03-2014  12:00               394 dropdown_ic_arrow_small_pressed_holo_light.png
+02-03-2014  12:00               101 fragment_shadow_horizontal_flip.9.png
+02-03-2014  12:00               147 fragment_shadow_horizontal_light.9.png
+02-03-2014  12:00               159 fragment_shadow_vertical.9.png
+02-03-2014  12:00               101 fragment_shadow_vertical_flip.9.png
+02-03-2014  12:00               564 ic_action_add.png
+02-03-2014  12:00             1.781 ic_action_camera.png
+02-03-2014  12:00             1.518 ic_action_clear.png
+02-03-2014  12:00             2.865 ic_action_copy.png
+02-03-2014  12:00             1.611 ic_action_delete.png
+02-03-2014  12:00             1.875 ic_action_edit.png
+02-03-2014  12:00             1.734 ic_action_labels.png
+02-03-2014  12:00             2.975 ic_action_paste.png
+02-03-2014  12:00               515 ic_action_qr.png
+02-03-2014  12:00             3.240 ic_action_receive.png
+02-03-2014  12:00             3.069 ic_action_send.png
+02-03-2014  12:00             1.625 ic_action_set_as_default.png
+02-03-2014  12:00             3.135 ic_action_share.png
+02-03-2014  12:00             1.307 ic_input_delete.png
+02-03-2014  12:00             1.587 ic_menu_warning.png
+02-03-2014  12:00             2.738 popup_frame_above.9.png
+02-03-2014  12:00             2.773 popup_frame_below.9.png
+02-03-2014  12:00             2.647 qrcode_frame_default.9.png
+02-03-2014  12:00             2.599 qrcode_frame_focused.9.png
+02-03-2014  12:00             2.597 qrcode_frame_pressed.9.png
+02-03-2014  12:00               501 spinner_default.9.png
+02-03-2014  12:00               713 spinner_pressed.9.png
+02-03-2014  12:00               784 spinner_selected.9.png
+02-03-2014  12:00               520 stat_notify_received.png
+02-03-2014  12:00               316 stat_sys_peers_0.png
+02-03-2014  12:00               741 stat_sys_peers_1.png
+02-03-2014  12:00               908 stat_sys_peers_2.png
+02-03-2014  12:00             1.030 stat_sys_peers_3.png
+02-03-2014  12:00             1.082 stat_sys_peers_4.png
+02-03-2014  12:00               529 textfield_default.9.png
+02-03-2014  12:00               613 textfield_disabled.9.png
+02-03-2014  12:00               738 textfield_disabled_selected.9.png
+02-03-2014  12:00               591 textfield_pressed.9.png
+02-03-2014  12:00               616 textfield_selected.9.png
+02-03-2014  12:00             9.342 toast_frame.9.png
+              72 bestand(en)          111.243 bytes
+
+ Map van C:\Documents and Settings\default\Bureaublad\ANDROID_WALLET\dogecoin-wallet-new-master\wallet\res\drawable-hdpi-v11
+
+02-03-2014  12:00                86 appwidget_divider.9.png
+02-03-2014  12:00               474 stat_notify_received.png
+02-03-2014  12:00               811 stat_sys_peers_0.png
+02-03-2014  12:00             1.397 stat_sys_peers_1.png
+02-03-2014  12:00             1.642 stat_sys_peers_2.png
+02-03-2014  12:00             1.820 stat_sys_peers_3.png
+02-03-2014  12:00             2.071 stat_sys_peers_4.png
+               7 bestand(en)            8.301 bytes
+
+ Map van C:\Documents and Settings\default\Bureaublad\ANDROID_WALLET\dogecoin-wallet-new-master\wallet\res\drawable-hdpi-v14
+
+02-03-2014  12:00               731 appwidget_dark_bg.9.png
+02-03-2014  12:00               856 appwidget_dark_bg_focused.9.png
+02-03-2014  12:00               798 appwidget_dark_bg_pressed.9.png
+02-03-2014  12:00               158 appwidget_inner_focused_c.9.png
+02-03-2014  12:00               216 appwidget_inner_focused_l.9.png
+02-03-2014  12:00               219 appwidget_inner_focused_r.9.png
+02-03-2014  12:00               157 appwidget_inner_pressed_c.9.png
+02-03-2014  12:00               224 appwidget_inner_pressed_l.9.png
+02-03-2014  12:00               226 appwidget_inner_pressed_r.9.png
+               9 bestand(en)            3.585 bytes
+
+ Map van C:\Documents and Settings\default\Bureaublad\ANDROID_WALLET\dogecoin-wallet-new-master\wallet\res\drawable-xhdpi
+
+08-03-2014  10:15            11.321 app_icon.png
+02-03-2014  12:00             1.066 currency_symbol_btc.png
+02-03-2014  12:00             1.158 currency_symbol_mbtc.png
+02-03-2014  12:00             1.321 dropdown_ic_arrow_focused_holo_light.png
+02-03-2014  12:00               849 dropdown_ic_arrow_normal_holo_light.png
+02-03-2014  12:00             1.296 dropdown_ic_arrow_pressed_holo_light.png
+02-03-2014  12:00               493 dropdown_ic_arrow_small_focused_holo_light.png
+02-03-2014  12:00               375 dropdown_ic_arrow_small_normal_holo_light.png
+02-03-2014  12:00               520 dropdown_ic_arrow_small_pressed_holo_light.png
+02-03-2014  12:00               881 ic_action_add.png
+02-03-2014  12:00             2.049 ic_action_camera.png
+02-03-2014  12:00             1.720 ic_action_clear.png
+02-03-2014  12:00             2.874 ic_action_copy.png
+02-03-2014  12:00             1.824 ic_action_delete.png
+02-03-2014  12:00             2.382 ic_action_edit.png
+02-03-2014  12:00             2.169 ic_action_labels.png
+02-03-2014  12:00             3.003 ic_action_paste.png
+02-03-2014  12:00               563 ic_action_qr.png
+02-03-2014  12:00             3.342 ic_action_receive.png
+02-03-2014  12:00             3.127 ic_action_send.png
+02-03-2014  12:00             1.903 ic_action_set_as_default.png
+02-03-2014  12:00             3.212 ic_action_share.png
+02-03-2014  12:00             1.105 ic_input_delete.png
+02-03-2014  12:00             1.792 ic_menu_warning.png
+02-03-2014  12:00            19.744 widget_preview.png
+              25 bestand(en)           70.089 bytes
+
+ Map van C:\Documents and Settings\default\Bureaublad\ANDROID_WALLET\dogecoin-wallet-new-master\wallet\res\drawable-xhdpi-v11
+
+02-03-2014  12:00                89 appwidget_divider.9.png
+02-03-2014  12:00               742 stat_notify_received.png
+               2 bestand(en)              831 bytes
+
+ Map van C:\Documents and Settings\default\Bureaublad\ANDROID_WALLET\dogecoin-wallet-new-master\wallet\res\drawable-xhdpi-v14
+
+02-03-2014  12:00             1.005 appwidget_dark_bg.9.png
+02-03-2014  12:00             1.135 appwidget_dark_bg_focused.9.png
+02-03-2014  12:00             1.098 appwidget_dark_bg_pressed.9.png
+02-03-2014  12:00               158 appwidget_inner_focused_c.9.png
+02-03-2014  12:00               242 appwidget_inner_focused_l.9.png
+02-03-2014  12:00               236 appwidget_inner_focused_r.9.png
+02-03-2014  12:00               157 appwidget_inner_pressed_c.9.png
+02-03-2014  12:00               258 appwidget_inner_pressed_l.9.png
+02-03-2014  12:00               247 appwidget_inner_pressed_r.9.png
+               9 bestand(en)            4.536 bytes
+
+ Map van C:\Documents and Settings\default\Bureaublad\ANDROID_WALLET\dogecoin-wallet-new-master\wallet\res\drawable-xxhdpi
+
+08-03-2014  10:15            11.321 app_icon.png
+               1 bestand(en)           11.321 bytes
+
+ Map van C:\Documents and Settings\default\Bureaublad\ANDROID_WALLET\dogecoin-wallet-new-master\wallet\target\unpack\apklibs\com.actionbarsherlock_library_apklib_4.1.0\res\drawable-hdpi
+
+18-05-2012  10:18               144 abs__ab_bottom_solid_dark_holo.9.png
+18-05-2012  10:18               138 abs__ab_bottom_solid_inverse_holo.9.png
+18-05-2012  10:18               144 abs__ab_bottom_solid_light_holo.9.png
+18-05-2012  10:18               135 abs__ab_bottom_transparent_dark_holo.9.png
+18-05-2012  10:18               134 abs__ab_bottom_transparent_light_holo.9.png
+18-05-2012  10:18             2.866 abs__ab_share_pack_holo_dark.9.png
+18-05-2012  10:18             2.862 abs__ab_share_pack_holo_light.9.png
+18-05-2012  10:18               146 abs__ab_solid_dark_holo.9.png
+18-05-2012  10:18               145 abs__ab_solid_light_holo.9.png
+18-05-2012  10:18               192 abs__ab_solid_shadow_holo.9.png
+18-05-2012  10:18               146 abs__ab_stacked_solid_dark_holo.9.png
+18-05-2012  10:18               146 abs__ab_stacked_solid_light_holo.9.png
+18-05-2012  10:18               139 abs__ab_stacked_transparent_dark_holo.9.png
+18-05-2012  10:18               133 abs__ab_stacked_transparent_light_holo.9.png
+18-05-2012  10:18               155 abs__ab_transparent_dark_holo.9.png
+18-05-2012  10:18               145 abs__ab_transparent_light_holo.9.png
+18-05-2012  10:18               104 abs__btn_cab_done_default_holo_dark.9.png
+18-05-2012  10:18               102 abs__btn_cab_done_default_holo_light.9.png
+18-05-2012  10:18               112 abs__btn_cab_done_focused_holo_dark.9.png
+18-05-2012  10:18               108 abs__btn_cab_done_focused_holo_light.9.png
+18-05-2012  10:18               110 abs__btn_cab_done_pressed_holo_dark.9.png
+18-05-2012  10:18               108 abs__btn_cab_done_pressed_holo_light.9.png
+18-05-2012  10:18               149 abs__cab_background_bottom_holo_dark.9.png
+18-05-2012  10:18               145 abs__cab_background_bottom_holo_light.9.png
+18-05-2012  10:18               147 abs__cab_background_top_holo_dark.9.png
+18-05-2012  10:18               147 abs__cab_background_top_holo_light.9.png
+18-05-2012  10:18             1.414 abs__dialog_full_holo_dark.9.png
+18-05-2012  10:18             1.537 abs__dialog_full_holo_light.9.png
+18-05-2012  10:18               602 abs__ic_ab_back_holo_dark.png
+18-05-2012  10:18               546 abs__ic_ab_back_holo_light.png
+18-05-2012  10:18               713 abs__ic_cab_done_holo_dark.png
+18-05-2012  10:18               737 abs__ic_cab_done_holo_light.png
+18-05-2012  10:18               144 abs__ic_menu_moreoverflow_normal_holo_dark.png
+18-05-2012  10:18               148 abs__ic_menu_moreoverflow_normal_holo_light.png
+18-05-2012  10:18               467 abs__ic_menu_share_holo_dark.png
+18-05-2012  10:18               505 abs__ic_menu_share_holo_light.png
+18-05-2012  10:18               154 abs__list_activated_holo.9.png
+18-05-2012  10:18                78 abs__list_divider_holo_dark.9.png
+18-05-2012  10:18                76 abs__list_divider_holo_light.9.png
+18-05-2012  10:18               159 abs__list_focused_holo.9.png
+18-05-2012  10:18               154 abs__list_longpressed_holo.9.png
+18-05-2012  10:18               159 abs__list_pressed_holo_dark.9.png
+18-05-2012  10:18               159 abs__list_pressed_holo_light.9.png
+18-05-2012  10:18               189 abs__list_selector_disabled_holo_dark.9.png
+18-05-2012  10:18               189 abs__list_selector_disabled_holo_light.9.png
+18-05-2012  10:18               922 abs__menu_dropdown_panel_holo_dark.9.png
+18-05-2012  10:18             1.061 abs__menu_dropdown_panel_holo_light.9.png
+18-05-2012  10:18               178 abs__progress_bg_holo_dark.9.png
+18-05-2012  10:18               174 abs__progress_bg_holo_light.9.png
+18-05-2012  10:18               917 abs__progress_primary_holo_dark.9.png
+18-05-2012  10:18               917 abs__progress_primary_holo_light.9.png
+18-05-2012  10:18               188 abs__progress_secondary_holo_dark.9.png
+18-05-2012  10:18               188 abs__progress_secondary_holo_light.9.png
+18-05-2012  10:18             2.081 abs__spinner_48_inner_holo.png
+18-05-2012  10:18             1.811 abs__spinner_48_outer_holo.png
+18-05-2012  10:18               311 abs__spinner_ab_default_holo_dark.9.png
+18-05-2012  10:18               312 abs__spinner_ab_default_holo_light.9.png
+18-05-2012  10:18               306 abs__spinner_ab_disabled_holo_dark.9.png
+18-05-2012  10:18               306 abs__spinner_ab_disabled_holo_light.9.png
+18-05-2012  10:18               524 abs__spinner_ab_focused_holo_dark.9.png
+18-05-2012  10:18               523 abs__spinner_ab_focused_holo_light.9.png
+18-05-2012  10:18               464 abs__spinner_ab_pressed_holo_dark.9.png
+18-05-2012  10:18               458 abs__spinner_ab_pressed_holo_light.9.png
+18-05-2012  10:18               147 abs__tab_selected_focused_holo.9.png
+18-05-2012  10:18               148 abs__tab_selected_holo.9.png
+18-05-2012  10:18               147 abs__tab_selected_pressed_holo.9.png
+18-05-2012  10:18               145 abs__tab_unselected_pressed_holo.9.png
+              67 bestand(en)           29.360 bytes
+
+ Map van C:\Documents and Settings\default\Bureaublad\ANDROID_WALLET\dogecoin-wallet-new-master\wallet\target\unpack\apklibs\com.actionbarsherlock_library_apklib_4.1.0\res\drawable-mdpi
+
+18-05-2012  10:18               134 abs__ab_bottom_solid_dark_holo.9.png
+18-05-2012  10:18               129 abs__ab_bottom_solid_inverse_holo.9.png
+18-05-2012  10:18               134 abs__ab_bottom_solid_light_holo.9.png
+18-05-2012  10:18               123 abs__ab_bottom_transparent_dark_holo.9.png
+18-05-2012  10:18               123 abs__ab_bottom_transparent_light_holo.9.png
+18-05-2012  10:18             2.851 abs__ab_share_pack_holo_dark.9.png
+18-05-2012  10:18               122 abs__ab_share_pack_holo_light.9.png
+18-05-2012  10:18               133 abs__ab_solid_dark_holo.9.png
+18-05-2012  10:18               133 abs__ab_solid_light_holo.9.png
+18-05-2012  10:18               168 abs__ab_solid_shadow_holo.9.png
+18-05-2012  10:18               134 abs__ab_stacked_solid_dark_holo.9.png
+18-05-2012  10:18               133 abs__ab_stacked_solid_light_holo.9.png
+18-05-2012  10:18               127 abs__ab_stacked_transparent_dark_holo.9.png
+18-05-2012  10:18               123 abs__ab_stacked_transparent_light_holo.9.png
+18-05-2012  10:18               139 abs__ab_transparent_dark_holo.9.png
+18-05-2012  10:18               133 abs__ab_transparent_light_holo.9.png
+18-05-2012  10:18               101 abs__btn_cab_done_default_holo_dark.9.png
+18-05-2012  10:18                99 abs__btn_cab_done_default_holo_light.9.png
+18-05-2012  10:18               109 abs__btn_cab_done_focused_holo_dark.9.png
+18-05-2012  10:18               105 abs__btn_cab_done_focused_holo_light.9.png
+18-05-2012  10:18               107 abs__btn_cab_done_pressed_holo_dark.9.png
+18-05-2012  10:18               105 abs__btn_cab_done_pressed_holo_light.9.png
+18-05-2012  10:18               127 abs__cab_background_bottom_holo_dark.9.png
+18-05-2012  10:18               124 abs__cab_background_bottom_holo_light.9.png
+18-05-2012  10:18               130 abs__cab_background_top_holo_dark.9.png
+18-05-2012  10:18               128 abs__cab_background_top_holo_light.9.png
+18-05-2012  10:18               882 abs__dialog_full_holo_dark.9.png
+18-05-2012  10:18             1.003 abs__dialog_full_holo_light.9.png
+18-05-2012  10:18               466 abs__ic_ab_back_holo_dark.png
+18-05-2012  10:18               438 abs__ic_ab_back_holo_light.png
+18-05-2012  10:18               566 abs__ic_cab_done_holo_dark.png
+18-05-2012  10:18               552 abs__ic_cab_done_holo_light.png
+18-05-2012  10:18               122 abs__ic_menu_moreoverflow_normal_holo_dark.png
+18-05-2012  10:18               131 abs__ic_menu_moreoverflow_normal_holo_light.png
+18-05-2012  10:18               332 abs__ic_menu_share_holo_dark.png
+18-05-2012  10:18               355 abs__ic_menu_share_holo_light.png
+18-05-2012  10:18               151 abs__list_activated_holo.9.png
+18-05-2012  10:18                78 abs__list_divider_holo_dark.9.png
+18-05-2012  10:18                76 abs__list_divider_holo_light.9.png
+18-05-2012  10:18               158 abs__list_focused_holo.9.png
+18-05-2012  10:18               151 abs__list_longpressed_holo.9.png
+18-05-2012  10:18               158 abs__list_pressed_holo_dark.9.png
+18-05-2012  10:18               158 abs__list_pressed_holo_light.9.png
+18-05-2012  10:18               172 abs__list_selector_disabled_holo_dark.9.png
+18-05-2012  10:18               171 abs__list_selector_disabled_holo_light.9.png
+18-05-2012  10:18               651 abs__menu_dropdown_panel_holo_dark.9.png
+18-05-2012  10:18               720 abs__menu_dropdown_panel_holo_light.9.png
+18-05-2012  10:18               165 abs__progress_bg_holo_dark.9.png
+18-05-2012  10:18               159 abs__progress_bg_holo_light.9.png
+18-05-2012  10:18               572 abs__progress_primary_holo_dark.9.png
+18-05-2012  10:18               572 abs__progress_primary_holo_light.9.png
+18-05-2012  10:18               170 abs__progress_secondary_holo_dark.9.png
+18-05-2012  10:18               170 abs__progress_secondary_holo_light.9.png
+18-05-2012  10:18             1.336 abs__spinner_48_inner_holo.png
+18-05-2012  10:18             1.165 abs__spinner_48_outer_holo.png
+18-05-2012  10:18               254 abs__spinner_ab_default_holo_dark.9.png
+18-05-2012  10:18               255 abs__spinner_ab_default_holo_light.9.png
+18-05-2012  10:18               249 abs__spinner_ab_disabled_holo_dark.9.png
+18-05-2012  10:18               249 abs__spinner_ab_disabled_holo_light.9.png
+18-05-2012  10:18               417 abs__spinner_ab_focused_holo_dark.9.png
+18-05-2012  10:18               424 abs__spinner_ab_focused_holo_light.9.png
+18-05-2012  10:18               370 abs__spinner_ab_pressed_holo_dark.9.png
+18-05-2012  10:18               370 abs__spinner_ab_pressed_holo_light.9.png
+18-05-2012  10:18               148 abs__tab_selected_focused_holo.9.png
+18-05-2012  10:18               151 abs__tab_selected_holo.9.png
+18-05-2012  10:18               150 abs__tab_selected_pressed_holo.9.png
+18-05-2012  10:18               155 abs__tab_unselected_pressed_holo.9.png
+              67 bestand(en)           20.966 bytes
+
+ Map van C:\Documents and Settings\default\Bureaublad\ANDROID_WALLET\dogecoin-wallet-new-master\wallet\target\unpack\apklibs\com.actionbarsherlock_library_apklib_4.1.0\res\drawable-xhdpi
+
+18-05-2012  10:18               165 abs__ab_bottom_solid_dark_holo.9.png
+18-05-2012  10:18               157 abs__ab_bottom_solid_inverse_holo.9.png
+18-05-2012  10:18               166 abs__ab_bottom_solid_light_holo.9.png
+18-05-2012  10:18               153 abs__ab_bottom_transparent_dark_holo.9.png
+18-05-2012  10:18               152 abs__ab_bottom_transparent_light_holo.9.png
+18-05-2012  10:18             2.875 abs__ab_share_pack_holo_dark.9.png
+18-05-2012  10:18             2.869 abs__ab_share_pack_holo_light.9.png
+18-05-2012  10:18               163 abs__ab_solid_dark_holo.9.png
+18-05-2012  10:18               163 abs__ab_solid_light_holo.9.png
+18-05-2012  10:18               290 abs__ab_solid_shadow_holo.9.png
+18-05-2012  10:18               163 abs__ab_stacked_solid_dark_holo.9.png
+18-05-2012  10:18               163 abs__ab_stacked_solid_light_holo.9.png
+18-05-2012  10:18               158 abs__ab_stacked_transparent_dark_holo.9.png
+18-05-2012  10:18               152 abs__ab_stacked_transparent_light_holo.9.png
+18-05-2012  10:18               171 abs__ab_transparent_dark_holo.9.png
+18-05-2012  10:18               160 abs__ab_transparent_light_holo.9.png
+18-05-2012  10:18               109 abs__btn_cab_done_default_holo_dark.9.png
+18-05-2012  10:18               108 abs__btn_cab_done_default_holo_light.9.png
+18-05-2012  10:18               112 abs__btn_cab_done_focused_holo_dark.9.png
+18-05-2012  10:18               113 abs__btn_cab_done_focused_holo_light.9.png
+18-05-2012  10:18               115 abs__btn_cab_done_pressed_holo_dark.9.png
+18-05-2012  10:18               113 abs__btn_cab_done_pressed_holo_light.9.png
+18-05-2012  10:18               166 abs__cab_background_bottom_holo_dark.9.png
+18-05-2012  10:18               161 abs__cab_background_bottom_holo_light.9.png
+18-05-2012  10:18               174 abs__cab_background_top_holo_dark.9.png
+18-05-2012  10:18               161 abs__cab_background_top_holo_light.9.png
+18-05-2012  10:18             2.159 abs__dialog_full_holo_dark.9.png
+18-05-2012  10:18             2.302 abs__dialog_full_holo_light.9.png
+18-05-2012  10:18               741 abs__ic_ab_back_holo_dark.png
+18-05-2012  10:18               661 abs__ic_ab_back_holo_light.png
+18-05-2012  10:18               970 abs__ic_cab_done_holo_dark.png
+18-05-2012  10:18               915 abs__ic_cab_done_holo_light.png
+18-05-2012  10:18               167 abs__ic_menu_moreoverflow_normal_holo_dark.png
+18-05-2012  10:18               184 abs__ic_menu_moreoverflow_normal_holo_light.png
+18-05-2012  10:18               699 abs__ic_menu_share_holo_dark.png
+18-05-2012  10:18               935 abs__ic_menu_share_holo_light.png
+18-05-2012  10:18               158 abs__list_activated_holo.9.png
+18-05-2012  10:18                83 abs__list_divider_holo_dark.9.png
+18-05-2012  10:18                83 abs__list_divider_holo_light.9.png
+18-05-2012  10:18               163 abs__list_focused_holo.9.png
+18-05-2012  10:18               158 abs__list_longpressed_holo.9.png
+18-05-2012  10:18               163 abs__list_pressed_holo_dark.9.png
+18-05-2012  10:18               163 abs__list_pressed_holo_light.9.png
+18-05-2012  10:18               190 abs__list_selector_disabled_holo_dark.9.png
+18-05-2012  10:18               188 abs__list_selector_disabled_holo_light.9.png
+18-05-2012  10:18             1.362 abs__menu_dropdown_panel_holo_dark.9.png
+18-05-2012  10:18             1.551 abs__menu_dropdown_panel_holo_light.9.png
+18-05-2012  10:18               174 abs__progress_bg_holo_dark.9.png
+18-05-2012  10:18               172 abs__progress_bg_holo_light.9.png
+18-05-2012  10:18             1.309 abs__progress_primary_holo_dark.9.png
+18-05-2012  10:18             1.309 abs__progress_primary_holo_light.9.png
+18-05-2012  10:18               184 abs__progress_secondary_holo_dark.9.png
+18-05-2012  10:18               184 abs__progress_secondary_holo_light.9.png
+18-05-2012  10:18             2.769 abs__spinner_48_inner_holo.png
+18-05-2012  10:18             2.432 abs__spinner_48_outer_holo.png
+18-05-2012  10:18               395 abs__spinner_ab_default_holo_dark.9.png
+18-05-2012  10:18               394 abs__spinner_ab_default_holo_light.9.png
+18-05-2012  10:18               381 abs__spinner_ab_disabled_holo_dark.9.png
+18-05-2012  10:18               381 abs__spinner_ab_disabled_holo_light.9.png
+18-05-2012  10:18               680 abs__spinner_ab_focused_holo_dark.9.png
+18-05-2012  10:18               671 abs__spinner_ab_focused_holo_light.9.png
+18-05-2012  10:18               609 abs__spinner_ab_pressed_holo_dark.9.png
+18-05-2012  10:18               602 abs__spinner_ab_pressed_holo_light.9.png
+18-05-2012  10:18               147 abs__tab_selected_focused_holo.9.png
+18-05-2012  10:18               153 abs__tab_selected_holo.9.png
+18-05-2012  10:18               147 abs__tab_selected_pressed_holo.9.png
+18-05-2012  10:18               149 abs__tab_unselected_pressed_holo.9.png
+              67 bestand(en)           36.689 bytes
+
+     Totaal aantal weergegeven bestanden:
+             543 bestand(en)        5.184.256 bytes
+               0 map(pen)   2.899.959.808 bytes beschikbaar

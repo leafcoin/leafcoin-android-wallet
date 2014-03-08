@@ -12,10 +12,10 @@ Leafcoin'leriniz daima cebinizde sizinle olsun! Herhangi bir QR kodunu okuyarak 
 • Leafcoin bakiyesini görüntüleyen widget.
 
 Leafcoin hakkında daha fazla bilgiyi şurada bulabilirsiniz:
-http://leafcoin.org
+http://leafco.in
 
 Leafcoin Wallet'e iştirak etmek istiyorsanız, projenin adresi şudur:
-https://github.com/langerhans/leafcoin-wallet-new
+https://github.com/leafcoin/leafcoin-android-wallet
 
 This is a fork of the popular Bitcoin Wallet by Andreas Schildbach and was converted to Leafcoin by me.
 Find the original at

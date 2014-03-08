@@ -12,10 +12,10 @@ TRAJTOJ:
 • Aplikaĵa fenestraĵo por Dogemona saldo.
 
 Vi povas trovi pli pri Dogemono ĉe
-http://leafcoin.com
+http://leafco.in
 
 Se vi volas kontribui al Leafcoin Wallet, la projekto lokas ĉe
-https://github.com/langerhans/leafcoin-wallet-new
+https://github.com/leafcoin/leafcoin-android-wallet
 
 This is a fork of the popular Leafcoin Wallet by Andreas Schildbach and was converted to Leafcoin by me.
 Find the original at

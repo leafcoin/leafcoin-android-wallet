@@ -12,10 +12,10 @@ FEATURES:
 • App-Widget zeigt Leafcoin-Guthaben an.
 
 Weitere Informationen zu Leafcoin findest Du unter
-http://leafcoin.org
+http://leafco.in
 
 Wenn Du zu Leafcoin Wallet beitragen willst, das Projekt befindet sich auf
-https://github.com/langerhans/leafcoin-wallet-new
+https://github.com/leafcoin/leafcoin-android-wallet
 
 Dies ist ein Fork des bekannten Bitcoin Wallet von Andreas Schildbach. Ich habe es für Leafcoin angepasst.
 Das Original gibt es hier:
