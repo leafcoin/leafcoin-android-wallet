@@ -3,7 +3,7 @@
 	xmlns:tools="http://schemas.android.com/tools"
 	package="in.leafco.wallet"
 	android:installLocation="internalOnly"
-	android:versionCode="158"
+	android:versionCode="159"
 	android:versionName="1.06" >
 
 	<uses-sdk

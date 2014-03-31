@@ -99,9 +99,9 @@ public class Constants
 	public static final String COMMUNITY_GOOGLEPLUS_URL = ""; //TODO
 	public static final String MARKET_APP_URL = "market://details?id=%s";
 	public static final String WEBMARKET_APP_URL = "https://play.google.com/store/apps/details?id=%s";
-	public static final String MARKET_PUBLISHER_URL = "market://search?q=pub:\"Leafcoin Team\"";
+	public static final String MARKET_PUBLISHER_URL = "market://search?q=pub:\"Leafcoin\"";
 
-	public static final String VERSION_URL = "http://parasprite.net:8081/version";
+	public static final String VERSION_URL = "http://android.leafco.in/version";
 	public static final int HTTP_TIMEOUT_MS = 15 * (int) DateUtils.SECOND_IN_MILLIS;
 
 	public static final String PREFS_KEY_LAST_VERSION = "last_version";
